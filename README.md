@@ -57,8 +57,7 @@ Follow these steps to set up the project in a Windows environment:
 
 2. **Clone the Project Repository**:
    ```bash
-   git clone https://github.com/SouptikRoy/https://github.com/SouptikRoy/DFF_TransmissionGate_PDP
-
+ git clone https://github.com/SouptikRoy/
 
 
 
