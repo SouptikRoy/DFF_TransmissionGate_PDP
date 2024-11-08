@@ -32,6 +32,33 @@ The key performance parameters measured in this design include:
 - **Delay**: The propagation delay of the circuit, aiming for minimal delay.
 - **Power-Delay Product (PDP)**: Calculated to evaluate the energy efficiency of the flip-flop.
 
+## Specifications
+Detailed specifications of the D flip-flop design:
+- **Technology Node**: 130nm SkyWater PDK
+- **Input Voltage**: Standard operating voltage for the transmission gates and inverters.
+- **Control Signals**: Clock and inverted clock signals control the transmission gates.
+- **Output**: Q output with precise timing characteristics.
+
+## Open Source Tools Used
+This project was developed using the following open-source tools:
+- **eSim** - for circuit design and simulation
+- **KiCad** - for creating and managing circuit schematics
+- **NGSpice** - for SPICE simulations of the D flip-flop
+- **SkyWater PDK** - open-source process design kit for 130nm technology node
+
+## Installation in Windows
+Follow these steps to set up the project in a Windows environment:
+
+1. **Download and Install Required Tools**:
+   - [eSim](https://esim.fossee.in/) for circuit simulation.
+   - [KiCad](https://kicad.org/) for schematic creation.
+   - [NGSpice](http://ngspice.sourceforge.net/) for SPICE simulation.
+   - [SkyWater PDK](https://github.com/google/skywater-pdk) for technology-specific parameters.
+
+2. **Clone the Project Repository**:
+   ```bash
+   git clone https://github.com/yourusername/
+
 
 
 
