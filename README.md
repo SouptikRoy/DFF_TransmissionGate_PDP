@@ -26,6 +26,10 @@ Flip-flops are fundamental elements in sequential digital circuits, and optimizi
 
 The block diagram below shows the basic structure of the D Flip-Flop design.
 
+![Block Diagram]"C:\Users\Souptik Roy\Pictures\D Flip Flop Transmission Gate.jpg"
+
+
+
 
 
 
