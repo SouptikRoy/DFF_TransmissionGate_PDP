@@ -26,7 +26,12 @@ Flip-flops are fundamental elements in sequential digital circuits, and optimizi
 
 The block diagram below shows the basic structure of the D Flip-Flop design.
 ![Block Diagram]
-## Performance Parameters
+
+## Circuit Schematic Diaram
+![D Flip Flop Transmission Gate](https://github.com/user-attachments/assets/fa6f7e7d-741a-4cc3-bd1b-d3a0ff59dcf8)
+
+
+# Performance Parameters
 The key performance parameters measured in this design include:
 - **Power Consumption**: Measured in microwatts (µW), focusing on low-power design.
 - **Delay**: The propagation delay of the circuit, aiming for minimal delay.
